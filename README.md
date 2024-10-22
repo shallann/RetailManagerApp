@@ -1,1 +1,1 @@
-# RetailManagerApp
+# Retail Manager App
